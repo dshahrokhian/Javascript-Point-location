@@ -1,7 +1,3 @@
-/*!
- Copyright (C) 2015-2016 Daniyal Shahrokhian: https://github.com/dshahrokhian
- */
-
 /*
  Author: Daniyal Shahrokhian (dani.shahrokhian@gmail.com)
  File: dshahrokhian-pointLocation.js
